@@ -19,5 +19,5 @@
 * [Feature Flags](feature-flags.md)
 * [Feature Dependencies](feature-dependencies.md)
 * [Migration / Scripts](migration-scripts.md)
-* [Upgrade Contracts](upgrade-contracts.md)
+* [Upgrade Programs](upgrade-programs.md)
 * [Block timestamp](block-timestamp.md)
