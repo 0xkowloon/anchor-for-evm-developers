@@ -8,4 +8,4 @@ I recently started learning how to write Solana programs and much to my surprise
 
 This guide is inspired by [Solidity by Example](https://solidity-by-example.org/). It is light on texts and heavy on code. Experienced EVM developers should be able to just read the code and understand what's going on.
 
-This is a WIP, feel free to DM me on Twitter @0xkowloon if I should add anything!
+This is a WIP, feel free to DM me on Twitter @0xkowloon if I should be adding anything!
