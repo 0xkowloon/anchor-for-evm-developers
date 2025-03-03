@@ -1,7 +1,5 @@
 # Feature Flags
 
-**EVM**
-
 **Solana**
 
 ```rust
