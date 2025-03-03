@@ -23,4 +23,4 @@ function determineAddress(bytes memory bytecode, uint256 salt)
 
 Solana
 
-Program address is determined by a generated private key. It has nothing to do with the deployer address nor the bytecode
+Program address is determined by a generated private key. It has nothing to do with the deployer address nor the bytecode. The private key for the program is located at \`target/deploy/$PROGRAM\_NAME-keypair.json\`.
