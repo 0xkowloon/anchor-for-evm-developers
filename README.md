@@ -4,4 +4,8 @@ description: Introduction
 
 # Anchor for EVM Developers
 
-I recently had an opportunity to work on a Solana project as a complete beginner. I am jumping into the project having a few years of EVM experience under my belt and it is a completely different developer experience. There are many resources out there to get you started with developing on Solana, but there is nothing that bridges your EVM knowledge to Solana. I hope this guide will help you to get started very quickly. This guide is inspired by [Solidity by Example](https://solidity-by-example.org/). It is going to be light on texts and heavy on code. Experienced EVM developers should be able to just read the code and understand what's going on.
+I recently started learning how to write Solana programs and much to my surprise it is very different from writing smart contracts on EVM. There are many Solana tutorials out there but nothing that quickly bridges an EVM developer's knowledge to Solana,  so I created this guide.
+
+This guide is inspired by [Solidity by Example](https://solidity-by-example.org/). It is light on texts and heavy on code. Experienced EVM developers should be able to just read the code and understand what's going on.
+
+This is a WIP, feel free to DM me on Twitter @0xkowloon if I should add anything!
