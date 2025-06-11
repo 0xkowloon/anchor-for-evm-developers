@@ -21,3 +21,4 @@
 * [Migration / Scripts](migration-scripts.md)
 * [Upgrade Programs](upgrade-programs.md)
 * [Block timestamp](block-timestamp.md)
+* [Verifying A Contract](verifying-a-contract.md)
