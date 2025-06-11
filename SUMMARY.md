@@ -20,7 +20,7 @@
 * [Feature Dependencies](feature-dependencies.md)
 * [Migration / Scripts](migration-scripts.md)
 * [Upgrade Programs](upgrade-programs.md)
-* [Block timestamp](block-timestamp.md)
+* [Block Timestamp](block-timestamp.md)
 * [Verifying A Contract](verifying-a-contract.md)
 * [Destroying A Contract](destroying-a-contract.md)
 * [Reclaiming Rent From A Token Account](reclaiming-rent-from-a-token-account.md)
