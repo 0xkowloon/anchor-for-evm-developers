@@ -17,3 +17,6 @@ solana program extend $PROGRAM_ADDRESS $DIFFERENCE
 anchor upgrade --program-id $PROGRAM_ADDRESS 
 ```
 
+**Upgrade a program via Squads using buffer accounts**
+
+[**https://docs.squads.so/main/navigating-your-squad/developers-assets/programs#upgrade-a-program**](https://docs.squads.so/main/navigating-your-squad/developers-assets/programs#upgrade-a-program)
